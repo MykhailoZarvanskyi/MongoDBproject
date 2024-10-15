@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "670e272a46317f636f2e6a3b"
+  },
+  "email": "john.doe@example.com",
+  "firstName": "John",
+  "lastName": "Doe",
+  "_class": "org.example.assignmentonedb.Data.Member"
+},
+{
+  "_id": {
+    "$oid": "670e274b46317f636f2e6a3c"
+  },
+  "email": "Mike.doe@example.com",
+  "firstName": "Mike",
+  "lastName": "Doe",
+  "_class": "org.example.assignmentonedb.Data.Member"
+},
+{
+  "_id": {
+    "$oid": "670e275246317f636f2e6a3d"
+  },
+  "email": "Role.doe@example.com",
+  "firstName": "Role",
+  "lastName": "Doe",
+  "_class": "org.example.assignmentonedb.Data.Member"
+},
+{
+  "_id": {
+    "$oid": "670e275946317f636f2e6a3e"
+  },
+  "email": "Kim.doe@example.com",
+  "firstName": "Kim",
+  "lastName": "Doe",
+  "_class": "org.example.assignmentonedb.Data.Member"
+},
+{
+  "_id": {
+    "$oid": "670e275f46317f636f2e6a3f"
+  },
+  "email": "Kar.doe@example.com",
+  "firstName": "Kim",
+  "lastName": "Kar",
+  "_class": "org.example.assignmentonedb.Data.Member"
+},
+{
+  "_id": {
+    "$oid": "670e276946317f636f2e6a40"
+  },
+  "email": "mi.doe@example.com",
+  "firstName": "im",
+  "lastName": "mi",
+  "_class": "org.example.assignmentonedb.Data.Member"
+},
+{
+  "_id": {
+    "$oid": "670e277146317f636f2e6a41"
+  },
+  "email": "Test.doe@example.com",
+  "firstName": "Test",
+  "lastName": "Test",
+  "_class": "org.example.assignmentonedb.Data.Member"
+},
+{
+  "_id": {
+    "$oid": "670e278c46317f636f2e6a42"
+  },
+  "email": "1.doe@example.com",
+  "password": "123",
+  "firstName": "1",
+  "lastName": "1",
+  "_class": "org.example.assignmentonedb.Data.Member"
+},
+{
+  "_id": {
+    "$oid": "670e279746317f636f2e6a43"
+  },
+  "email": "2.doe@example.com",
+  "password": "123",
+  "firstName": "2",
+  "lastName": "2",
+  "_class": "org.example.assignmentonedb.Data.Member"
+},
+{
+  "_id": {
+    "$oid": "670e279e46317f636f2e6a44"
+  },
+  "email": "3.doe@example.com",
+  "password": "123",
+  "firstName": "3",
+  "lastName": "3",
+  "_class": "org.example.assignmentonedb.Data.Member"
+},
+{
+  "_id": {
+    "$oid": "670e27a846317f636f2e6a45"
+  },
+  "email": "4.doe@example.com",
+  "password": "123",
+  "firstName": "4",
+  "lastName": "4",
+  "_class": "org.example.assignmentonedb.Data.Member"
+}]

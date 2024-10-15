@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: AssignmentOneDB
+  data:
+    mongodb:
+      uri: mongodb+srv://Misha:123@mydb.5ulpw.mongodb.net/?retryWrites=true&w=majority&appName=MyDB
+      database: MyDB
